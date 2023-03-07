@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11ae2934-e0d6-4e43-a796-69efc610bb50" name="Changes" comment="" />
+    <list default="true" id="11ae2934-e0d6-4e43-a796-69efc610bb50" name="Changes" comment="CREATE Class1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_ProcesamientoDeImagenes/Class1/C_01-Rice-ManualThreshold.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/01_ProcesamientoDeImagenes/Class1/C_01-Rice-ManualThreshold.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,8 +57,17 @@
       <updated>1678090498961</updated>
       <workItem from="1678090500008" duration="2428000" />
       <workItem from="1678093084770" duration="421000" />
-      <workItem from="1678093528104" duration="1940000" />
+      <workItem from="1678093528104" duration="2699000" />
+      <workItem from="1678120281882" duration="4413000" />
     </task>
+    <task id="LOCAL-00001" summary="CREATE Class1">
+      <created>1678096197795</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678096197795</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,5 +83,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="CREATE Class1" />
+    <option name="LAST_COMMIT_MESSAGE" value="CREATE Class1" />
   </component>
 </project>
